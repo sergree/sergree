@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**sergree/sergree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught person who *(probably)* knows how to press keys.
 
-Here are some ideas to get you started:
+- 🔬 Interested in [DSP], [MIR], [DL], [WD], [VGD] and other random abbreviations
+- 🦀 In love with Rust
+- 📚 I also know some Python, C#, JS and database stuff
+- 🙏 I respect Linux, OSS and Freedom
+- 📜 In the past: EDM artist, sysadmin @ MKB.RU, Unity gamedev
+- 🦄 I also make Discord bots and watch anime UwU
+- 🛑 Applefree #FreeFortnite
+- 😄 Pronouns: he/him/they/them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[DSP]: https://en.wikipedia.org/wiki/Digital_signal_processing
+[MIR]: https://en.wikipedia.org/wiki/Music_information_retrieval
+[DL]: https://en.wikipedia.org/wiki/Deep_learning
+[WD]: https://en.wikipedia.org/wiki/Web_development
+[VGD]: https://en.wikipedia.org/wiki/Video_game_development
