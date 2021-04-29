@@ -6,7 +6,7 @@ I'm a self-taught person who *(probably)* knows how to press keys.
 - 🦀 In love with Rust
 - 📚 I also know some Python, C#, JS and database stuff
 - 🙏 I respect Linux, OSS and Freedom
-- 📜 In the past: EDM artist, sysadmin @ MKB.RU, Unity gamedev
+- 📜 In the past: EDM artist, QA @ Polyverse Music, sysadmin @ MKB.RU, Unity gamedev
 - 🦄 I also make Discord bots and watch anime UwU
 - 🛑 Applefree #FreeFortnite
 - 😄 Pronouns: he/him/they/them
