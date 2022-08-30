@@ -7,7 +7,7 @@ I'm a self-taught person who *(probably)* knows how to press keys.
 - 📚 I also know some C#, JS and database stuff
 - 🙏 I respect Linux, OSS and Freedom
 - 📜 In the past: EDM artist, QA @ Polyverse Music, sysadmin @ MKB.RU, Unity gamedev
-- 🦄 I also make Discord bots, watch anime and read VNs UwU
+- 🦄 I also make Discord bots, watch anime, and read VNs UwU
 - 😄 Pronouns: he/him/they/them
 
 [DSP]: https://en.wikipedia.org/wiki/Digital_signal_processing
