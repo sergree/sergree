@@ -6,7 +6,7 @@ I'm a self-taught person who *(probably)* knows how to press keys.
 - ❤️ In love with 🐍 Python and 🦀 Rust
 - 📚 I also know some C#, JS, and database stuff
 - 🙏 I respect Linux, [OSS], and Freedom
-- 📜 In the past: [EDM artist], QA @ [Polyverse Music], sysadmin @ [MKB.RU], [Unity gamedev]
+- 📜 In the past: [Psy-Trance EDM artist], QA @ [Polyverse Music], sysadmin @ [MKB.RU], [Unity gamedev]
 - 🦄 I also make Discord bots, watch anime, and read VNs UwU
 - 😄 Pronouns: he/him/they/them
 
@@ -16,7 +16,7 @@ I'm a self-taught person who *(probably)* knows how to press keys.
 [WD]: https://en.wikipedia.org/wiki/Web_development
 [VGD]: https://en.wikipedia.org/wiki/Video_game_development
 [OSS]: https://en.wikipedia.org/wiki/Open-source_software
-[EDM artist]: https://www.beatport.com/release/inspiration-feeling/1834179
+[Psy-Trance EDM artist]: https://www.beatport.com/release/inspiration-feeling/1834179
 [Polyverse Music]: https://polyversemusic.com/
 [MKB.RU]: https://mkb.ru/
 [Unity gamedev]: https://www.youtube.com/watch?v=xGNmaO-8asQ
