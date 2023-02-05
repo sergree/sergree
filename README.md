@@ -9,6 +9,7 @@ Mainly for [music production] or [Discord].
 - 📚 I also know some C#, JS, and database stuff
 - 🙏 I respect Linux, [OSS], and Freedom
 - 📜 In the past: [Psy-Trance EDM artist], QA @ [Polyverse Music], sysadmin @ [MKB.RU], [Unity gamedev]
+- 🏆 I hit [TOP 20 on Habr][Habr] in January 2023
 - 🦄 I also love to watch anime and read visual novels UwU
 - 😄 Pronouns: he/him/they/them
 
@@ -28,3 +29,4 @@ I have no PhD, MSc, or BSc. Only self-education in my free time.
 [Polyverse Music]: https://polyversemusic.com/
 [MKB.RU]: https://mkb.ru/
 [Unity gamedev]: https://www.youtube.com/watch?v=xGNmaO-8asQ
+[Habr]: https://habr.com/ru/users/sergree/
