@@ -11,7 +11,6 @@ Mainly for [music production] or [Discord].
 - 📜 In the past: [Psy-Trance EDM artist], QA @ [Polyverse Music], sysadmin @ [MKB.RU], [Unity gamedev], [Top Rated freelancer @ Upwork][Upwork Russia]
 - 🏆 I hit [TOP 20 on Habr][Habr] in January 2023
 - 🦄 I also love to watch anime and read [visual novels] UwU
-- 😄 Pronouns: he/him/they/them
 
 I have no PhD, MSc, or BSc. Only self-education in my free time.
 
