@@ -14,6 +14,10 @@ Mainly for [music production] or [Discord].
 
 I have no PhD, MSc, or BSc. Only self-education in my free time.
 
+> *“No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.”*
+> 
+> ― *Matthew 6:24 NIV*
+
 [music production]: https://en.wikipedia.org/wiki/Record_producer
 [Discord]: https://discord.com/
 [DSP]: https://en.wikipedia.org/wiki/Digital_signal_processing
