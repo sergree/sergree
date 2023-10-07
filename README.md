@@ -8,7 +8,13 @@ Mainly for [music production] or [Discord].
 - ❤️ In love with 🐍 Python and 🦀 Rust
 - 📚 I also know some C#, JS, and database stuff
 - 🙏 I respect Linux, [OSS], and Freedom
-- 📜 In the past: [Psy-Trance EDM artist], QA @ [Polyverse Music], sysadmin @ [MKB.RU], [Unity gamedev], [Top Rated freelancer @ Upwork][Upwork Russia]
+- 📜 In the past:
+   - [Psy-Trance EDM artist]
+   - QA @ [Polyverse Music]
+   - SysAdmin @ [MKB.RU]
+   - [Unity gamedev]
+   - [Top Rated freelancer @ Upwork][Upwork Russia]
+   - Backend dev @ [Xtrades.net] & [CryptoTraders.com]
 - 🏆 I hit [TOP 20 on Habr][Habr] in January 2023
 - 🦄 I also love to watch anime and read [visual novels] UwU
 
@@ -32,6 +38,8 @@ I have no PhD, MSc, or BSc. Only self-education in my free time.
 [Polyverse Music]: https://polyversemusic.com/
 [MKB.RU]: https://mkb.ru/
 [Unity gamedev]: https://www.youtube.com/watch?v=xGNmaO-8asQ
+[Xtrades.net]: https://xtrades.net/
+[CryptoTraders.com]: https://www.cryptotraders.com/
 [Habr]: https://habr.com/ru/users/sergree/
 [Upwork Russia]: https://investors.upwork.com/news-releases/news-release-details/upwork-announces-suspension-business-russia-and-belarus-and
 [visual novels]: https://github.com/sergree/awesome-visual-novels
