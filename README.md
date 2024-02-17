@@ -21,9 +21,9 @@
 
 У меня нет PhD, MSc или BSc. Только самообразование в свободное время.
 
-> *“No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.”*
+> *“No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.”*
 > 
-> ― *Matthew 6:24 NIV*
+> ― *Matthew 6:24 KJV*
 
 [music production]: https://en.wikipedia.org/wiki/Record_producer
 [Discord]: https://discord.com/
