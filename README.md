@@ -21,7 +21,7 @@
 
 У меня нет PhD, MSc или BSc. Только самообразование в свободное время.
 
-> *“No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.”*
+> *“No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve [God](https://en.wikipedia.org/wiki/Trinity) and [mammon](https://en.wikipedia.org/wiki/Mammon).”*
 > 
 > ― *Matthew 6:24 KJV*
 
