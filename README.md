@@ -1,25 +1,25 @@
-### Привет 👋
+### Здравствуйте, друзья прекрасные 👋
 
-Меня зовут Сергей. Я просто создаю вещи, которые кажутся мне полезными.
+Дозвольте представиться, моё имя Сергей. Вот я стою перед вами, нищий слуга своего ремесла, посвятив себя ковке идей, которые, как мне мерещится, могут принести пользу миру.
 
-В основном для [музыкального производства][music production] и [Discord].
+Преимущественно, мои страдания и увлечения связаны с [музыкальным творчеством][music production], [машинным обучением][ML] и широким просторам [Discord].
 
-- 🔬 Интересуюсь [DSP], [MIR], [DL], [LLM], [NLP], [WD], [WS], [VGD], [IB] и другими рандомными аббревиатурами
-- ❤️ Люблю 🦀 Rust и 🐍 Python
-- 📚 Также неплохо знаю базы данных, SQL, C# и JS
-- 🙏 Уважаю Linux и открытое ПО
-- 💼 Работаю ведущим Rust-разработчиком в [центре инноваций Future Crew компании МТС RED][Future Crew]
-- 📜 В прошлом:
-   - [Исполнитель Psy-Trance EDM][Psy-Trance EDM artist]
-   - QA в [Polyverse Music]
-   - Сисадмин в [Московском кредитном банке][MKB.RU]
-   - [Разработчик игр на Unity][Unity gamedev]
-   - [Top Rated фрилансер на Upwork][Upwork Russia]
-   - Бэкенд-разработчик в [Xtrades.net] и [CryptoTraders.com]
-- 🏆 Я попал в [ТОП-20 на Хабре][Habr] в январе 2023 года
-- 🦄 Я также люблю смотреть аниме и читать [визуальные новеллы][visual novels] UwU
+- 🔬 И вправду, я изведал глубины [DSP], [MIR], [DL], [LLM], [NLP], [WD], [WS], [VGD], [IB] и прочих загадочных аббревиатур, словно странник, шествующий по бездонным лесам знания
+- ❤️ Сердце моё пало от любви к 🦀 Rust и 🐍 Python, эти драгоценные камни в короне моего мастерства
+- 📚 И не пусты слова мои, когда я говорю, что имею недурное понимание баз данных, SQL, C# и JS
+- 🙏 И подобно благочестивому паломнику, отдаю почести Linux и свободному ПО
+- 💼 Занял я пост ведущего Rust-разработчика в избранных пенатах [центра инноваций Future Crew компании МТС RED][Future Crew], где каждый день – это битва разума и сердца
+- 📜 В мольбы веков:
+   - Был я [исполнителем Psy-Trance EDM][Psy-Trance EDM artist], где ноты слагались в моем сердце
+   - Как QA в [Polyverse Music], искал я ошибки, дабы сделать мир чуть лучше
+   - В лаврах [Московского кредитного банка][MKB.RU] я, сисадмин, стерег порядок цифровых путей
+   - Миры создавал для [игр на Unity][Unity gamedev], где герои мои бродили по царствам фантазий
+   - И как [Top Rated фрилансер на Upwork][Upwork Russia], познавал я вкус свободы и творчества
+   - Бэкенд-разработчиком с гордостью служил в [Xtrades.net] и [CryptoTraders.com], властвуя над потоками данных
+- 🏆 Истина, я взошел на вершины [ТОП-20 на Хабре][Habr] в январе 2023, где мои труды увидел мир
+- 🦄 И любовь моя – к аниме и [визуальным новеллам][visual novels] не угасает, они, словно звёзды, ведут меня в мороке ночей
 
-У меня нет PhD, MSc или BSc. Только самообразование в свободное время.
+Нет в моих руках ни PhD, ни MSc, ни BSc, лишь самообразование – мой титул и мой меч в борьбе с невежеством.
 
 > *“No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve [God](https://en.wikipedia.org/wiki/Trinity) and [mammon](https://en.wikipedia.org/wiki/Mammon).”*
 > 
@@ -29,6 +29,7 @@
 [Discord]: https://discord.com/
 [DSP]: https://en.wikipedia.org/wiki/Digital_signal_processing
 [MIR]: https://en.wikipedia.org/wiki/Music_information_retrieval
+[ML]: https://en.wikipedia.org/wiki/Machine_learning
 [DL]: https://en.wikipedia.org/wiki/Deep_learning
 [LLM]: https://en.wikipedia.org/wiki/Large_language_model
 [NLP]: https://en.wikipedia.org/wiki/Natural_language_processing
