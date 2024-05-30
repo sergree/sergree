@@ -14,6 +14,7 @@
    - Был я [исполнителем Psy-Trance EDM][Psy-Trance EDM artist], где ноты слагались в моём сердце
    - Как QA в [Polyverse Music], искал я ошибки, дабы сделать мир чуть лучше
    - В лаврах [Московского кредитного банка][MKB.RU], я, сисадмин, стерёг порядок цифровых путей
+   - Был я основателем [Siesta], града великого в просторах Discord, где игроки обретали пристанище
    - Миры создавал для [игр на Unity][Unity gamedev], где герои мои бродили по царствам фантазий
    - И как [Top Rated фрилансер на Upwork][Upwork Russia], познавал я вкус свободы и творчества
    - Бэкенд-разработчиком с гордостью служил в [Xtrades.net] и [CryptoTraders.com], властвуя над потоками данных
@@ -50,3 +51,4 @@
 [visual novels]: https://github.com/sergree/awesome-visual-novels
 [Future Crew]: https://futurecrew.ru/
 [Rust Jobs]: https://t.me/rust_jobs
+[Siesta]: https://www.carbonitex.net/Discord/server?s=298537787412578315
