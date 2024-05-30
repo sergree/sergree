@@ -9,6 +9,7 @@
 - 📚 И не пусты слова мои, когда я говорю, что имею недурное понимание баз данных, SQL, C# и JS
 - 🙏 И подобно благочестивому паломнику, отдаю почести Linux и свободному ПО
 - 💼 Занял я пост ведущего Rust-разработчика в избранных пенатах [центра инноваций Future Crew компании МТС RED][Future Crew], где каждый день – это битва разума и сердца
+- 🏢 В обители Telegram я есмь страж канала [Rust Jobs], обители вакансий и резюме
 - 📜 В мольбы веков:
    - Был я [исполнителем Psy-Trance EDM][Psy-Trance EDM artist], где ноты слагались в моём сердце
    - Как QA в [Polyverse Music], искал я ошибки, дабы сделать мир чуть лучше
@@ -48,3 +49,4 @@
 [Upwork Russia]: https://investors.upwork.com/news-releases/news-release-details/upwork-announces-suspension-business-russia-and-belarus-and
 [visual novels]: https://github.com/sergree/awesome-visual-novels
 [Future Crew]: https://futurecrew.ru/
+[Rust Jobs]: https://t.me/rust_jobs
