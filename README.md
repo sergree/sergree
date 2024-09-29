@@ -13,13 +13,13 @@
 - Администратор канала [Rust Jobs] в Telegram
 
 #### Предыдущий опыт
-- [Исполнитель Psy-Trance EDM][Psy-Trance EDM artist]
-- QA-специалист в [Polyverse Music]
-- Системный администратор в [Московском кредитном банке][MKB.RU]
-- Основатель сообщества [Siesta] в Discord
-- Разработчик [игр на Unity][Unity gamedev]
-- [Top Rated фрилансер на Upwork][Upwork Russia]
 - Бэкенд-разработчик в [Xtrades.net] и [CryptoTraders.com]
+- [Top Rated фрилансер на Upwork][Upwork Russia]
+- Разработчик [игр на Unity][Unity gamedev]
+- Основатель сообщества [Siesta] в Discord
+- Системный администратор в [Московском кредитном банке][MKB.RU]
+- QA-специалист в [Polyverse Music]
+- [Исполнитель Psy-Trance EDM][Psy-Trance EDM artist]
 
 В январе 2023 года мои труды были отмечены [сообществом Хабр, где я вошел в ТОП-20 авторов][Habr].
 
