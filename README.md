@@ -3,7 +3,7 @@
 Меня зовут Сергей. Я посвящаю свою профессиональную деятельность разработке программного обеспечения и стремлению внести свой вклад в развитие технологий на благо общества. Основными направлениями моей деятельности являются [бэкенд-разработка][backend dev], [машинное обучение][ML] и [музыкальное творчество][music production].
 
 #### В ходе профессионального пути я приобрел опыт в различных областях
-- [Digital signal processing][DSP], [Music information retrieval][MIR], [Deep learning][DL], [Large language models][LLM], [Web scraping][WS], etc.
+- [Digital signal processing][DSP], [Music information retrieval][MIR], [Deep learning][DL], [Computer vision][CV], [Large language models][LLM], [Web scraping][WS], [Crypto][Crypto] etc.
 - Языки программирования: Rust, Python, C#, JavaScript
 - А также: базы данных, SQL и администрирование Linux-систем
 
@@ -33,8 +33,10 @@
 [MIR]: https://en.wikipedia.org/wiki/Music_information_retrieval
 [ML]: https://en.wikipedia.org/wiki/Machine_learning
 [DL]: https://en.wikipedia.org/wiki/Deep_learning
+[CV]: https://en.wikipedia.org/wiki/Computer_vision
 [LLM]: https://en.wikipedia.org/wiki/Large_language_model
 [WS]: https://en.wikipedia.org/wiki/Web_scraping
+[Crypto]: https://en.wikipedia.org/wiki/Cryptocurrency
 [Psy-Trance EDM artist]: https://www.beatport.com/release/inspiration-feeling/1834179
 [Polyverse Music]: https://polyversemusic.com/
 [MKB.RU]: https://mkb.ru/
