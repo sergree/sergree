@@ -8,11 +8,11 @@
 - А также: базы данных, SQL и администрирование Linux-систем
 
 #### Текущая деятельность
-- Ведущий Rust-разработчик [центра инноваций Future Crew компании МТС RED][Future Crew]
 - Студент [богословского факультета ПСТГУ][PSTGU]
 - Администратор канала [Rust Jobs] в Telegram
 
 #### Предыдущий опыт
+- Ведущий Rust-разработчик [центра инноваций Future Crew компании МТС RED][Future Crew]
 - Бэкенд-разработчик в [Xtrades.net] и [CryptoTraders.com]
 - [Top Rated фрилансер на Upwork][Upwork Russia]
 - Разработчик [игр на Unity][Unity gamedev]
