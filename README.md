@@ -8,6 +8,7 @@
 - А также: базы данных, SQL и администрирование Linux-систем
 
 #### Текущая деятельность
+- Ведущий Python-разработчик [дивизиона развития технологий искусственного интеллекта T1][T1]
 - Студент [богословского факультета ПСТГУ][PSTGU]
 - Администратор канала [Rust Jobs] в Telegram
 
@@ -46,6 +47,7 @@
 [Habr]: https://habr.com/ru/users/sergree/
 [Upwork Russia]: https://investors.upwork.com/news-releases/news-release-details/upwork-announces-suspension-business-russia-and-belarus-and
 [Future Crew]: https://futurecrew.ru/
+[T1]: https://t1.ru/
 [PSTGU]: https://pstgu.ru/faculties/theological/
 [Rust Jobs]: https://t.me/rust_jobs
 [Siesta]: https://www.carbonitex.net/Discord/server?s=298537787412578315
